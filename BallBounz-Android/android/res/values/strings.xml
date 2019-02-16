@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BallBounz</string>
+    <string name="title_activity_first">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Sharing....</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_id">1043688955535</string>
+</resources>
